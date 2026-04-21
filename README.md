@@ -29,14 +29,11 @@ a national evidence base for understanding marine biodiversity in a changing cli
 
 ---
 
-## 🛠️ How I work
+## 🥼 Research and labs
 
-I primarily work in **R**!
-
-**Tools & approaches:**
-- Spatial analysis: `sf`, `spatstat`, linear network models  
-- Modelling: spatial point processes, GLMs/GAMs  
-- Data: cleaning, integration, and long-term dataset development  
+🐬 MAVE Lab [https://www.mavelab.org/]
+🌏 BEAM Lab [https://www.biogeographyuts.org/]
+👣 CIEHF [https://ciehf.au/]
 
 ---
 
