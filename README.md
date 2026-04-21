@@ -1,4 +1,4 @@
-# Hi, I'm Hannah 👋
+# Hi, I'm Hannah (•: 🐋
 
 🎓 PhD student in Marine Science (University of Wollongong)  
 🌊 Exploring cetacean strandings as indicators of ecological change  
