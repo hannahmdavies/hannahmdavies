@@ -32,7 +32,9 @@ a national evidence base for understanding marine biodiversity in a changing cli
 ## 🥼 Research and labs
 
 🐬 MAVE Lab [https://www.mavelab.org/]
+
 🌏 BEAM Lab [https://www.biogeographyuts.org/]
+
 👣 CIEHF [https://ciehf.au/]
 
 ---
