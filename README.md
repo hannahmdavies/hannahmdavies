@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Hannah 👋
 
-<!--
-**hannahmdavies/hannahmdavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD student in Marine Science (University of Wollongong)  
+🌊 Exploring cetacean strandings as indicators of ecological change  
+📍 NSW, Australia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I do
+
+I study how and why whales and dolphins strand along coastlines—and what those events can tell us about broader changes in marine ecosystems.
+
+My research brings together **long-term datasets, spatial modelling, and ecological theory** to ask:
+- Are strandings changing over time?
+- Do they cluster in space, and if so, where and why?
+- Can strandings act as a practical, large-scale monitoring tool for environmental change?
+
+At its core, my work is about turning **routinely collected data** into something more powerful:  
+a national evidence base for understanding marine biodiversity in a changing climate.
+
+---
+
+## 🧭 Current focus
+
+- 🐋 Analysing a **national cetacean stranding dataset (1989–2023)**
+- 🗺️ Modelling strandings along coastlines as a **1D spatial network**
+- 📊 Investigating spatial structure (clustering, hotspots) and temporal trends
+- 🌏 Linking ecological patterns to climate and environmental variability
+
+---
+
+## 🛠️ How I work
+
+I primarily work in **R**!
+
+**Tools & approaches:**
+- Spatial analysis: `sf`, `spatstat`, linear network models  
+- Modelling: spatial point processes, GLMs/GAMs  
+- Data: cleaning, integration, and long-term dataset development  
+
+---
+
+## 📫 Get in touch
+
+- 📧 [hmd908@uowmail.edu.au]  
+- 🔗 [linkedin.com/in/hannahmavisdavies]
+
+---
