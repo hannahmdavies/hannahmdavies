@@ -43,6 +43,6 @@ I primarily work in **R**!
 ## 📫 Get in touch
 
 - 📧 [hmd908@uowmail.edu.au]  
-- 🔗 [linkedin.com/in/hannahmavisdavies]
+- 🔗 [https://www.linkedin.com/in/hannahmavisdavies/]
 
 ---
